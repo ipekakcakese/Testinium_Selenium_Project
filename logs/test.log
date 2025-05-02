@@ -1,0 +1,34 @@
+02:23:02.212 [main] INFO  BeymenLogger - Test beginning...
+02:23:37.019 [main] INFO  BeymenLogger - Accepted cookies
+02:23:37.470 [main] INFO  BeymenLogger - Selected gender
+02:23:37.479 [main] INFO  BeymenLogger - Main page displayed successfully
+02:23:37.883 [main] INFO  BeymenLogger - Focused search box
+02:23:38.636 [main] INFO  BeymenLogger - Search box cleaned
+02:23:38.636 [main] INFO  BeymenLogger - 'Şort' word entered and removed.
+02:23:42.489 [main] INFO  BeymenLogger - Pressed enter
+02:23:42.491 [main] INFO  BeymenLogger - 'Gömlek' word entered and searched.
+02:23:44.593 [main] INFO  BeymenLogger - Product information written to file
+02:23:46.846 [main] INFO  BeymenLogger - Variant selected.
+02:23:46.921 [main] INFO  BeymenLogger - Product added to cart
+02:23:51.175 [main] INFO  BeymenLogger - Clicked cart icon
+02:23:53.466 [main] INFO  BeymenLogger - Amount of product: 7.295,00 TL
+02:23:53.574 [main] INFO  BeymenLogger - Product count changed
+02:23:53.741 [main] INFO  BeymenLogger - Product removed from cart
+02:23:57.020 [main] INFO  BeymenLogger - Browser closed.
+02:26:41.293 [main] INFO  BeymenLogger - Test beginning...
+02:27:15.934 [main] INFO  BeymenLogger - Accepted cookies
+02:27:16.340 [main] INFO  BeymenLogger - Selected gender
+02:27:16.346 [main] INFO  BeymenLogger - Main page displayed successfully
+02:27:16.770 [main] INFO  BeymenLogger - Focused search box
+02:27:17.625 [main] INFO  BeymenLogger - Search box cleaned
+02:27:17.626 [main] INFO  BeymenLogger - 'Şort' word entered and removed.
+02:27:21.348 [main] INFO  BeymenLogger - Pressed enter
+02:27:21.349 [main] INFO  BeymenLogger - 'Gömlek' word entered and searched.
+02:27:23.466 [main] INFO  BeymenLogger - Product information written to file
+02:27:25.739 [main] INFO  BeymenLogger - Variant selected.
+02:27:25.816 [main] INFO  BeymenLogger - Product added to cart
+02:27:30.503 [main] INFO  BeymenLogger - Clicked cart icon
+02:27:32.707 [main] INFO  BeymenLogger - Amount of product: 7.295,00 TL
+02:27:32.812 [main] INFO  BeymenLogger - Product count changed
+02:27:32.979 [main] INFO  BeymenLogger - Product removed from cart
+02:27:36.282 [main] INFO  BeymenLogger - Browser closed.
